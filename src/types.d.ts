@@ -1,4 +1,4 @@
 export interface ApiPostAllCountry {
   name: string;
-  alphaCode: string;
+  alpha3Code: string;
 }
